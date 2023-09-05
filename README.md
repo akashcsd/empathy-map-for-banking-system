@@ -1,2 +1,2 @@
 # empathy-map-for-banking-system
-Empathy map for Discovery phase for Health management system
+Empathy map for Discovery phase for Discovery phase for Payment banking system
